@@ -1,0 +1,16 @@
+this	2839
+some	1924
+that	1909
+all	1167
+any	977
+no	869
+those	711
+these	685
+another	534
+both	520
+each	486
+every	237
+either	58
+half	51
+neither	45
+many	19
